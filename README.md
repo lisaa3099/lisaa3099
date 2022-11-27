@@ -14,7 +14,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### Testing Documentation
-[Checklists](https://docs.google.com/spreadsheets/d/13cqUn9XpNv_w0ldwRSL18UYYptZJa-gBjt26fE-E8kc/edit?usp=share_link)
+- [Checklists](https://docs.google.com/spreadsheets/d/13cqUn9XpNv_w0ldwRSL18UYYptZJa-gBjt26fE-E8kc/edit?usp=share_link)
 - [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1KRa02HUxiSMc4sLW8McescblfErEdNMoLlvOBNxGxhQ/edit?usp=share_link)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1dYbOgwOt7H7b2A2n8Mqi51bBG8NXTURgD0cwbwHXglc/edit?usp=share_link)
 - [SQL Queries](https://drive.google.com/drive/folders/1uopiP7lp_0aL_kAbiVCj9pAkMeb3BVRE?usp=share_link)
