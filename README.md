@@ -16,7 +16,6 @@
 ### Testing Documentation
 - [Checklists](https://docs.google.com/spreadsheets/d/13cqUn9XpNv_w0ldwRSL18UYYptZJa-gBjt26fE-E8kc/edit?usp=share_link)
 - [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1KRa02HUxiSMc4sLW8McescblfErEdNMoLlvOBNxGxhQ/edit?usp=share_link)
-- [Bug-Reports]()
 - [SQL Queries](https://drive.google.com/drive/folders/1uopiP7lp_0aL_kAbiVCj9pAkMeb3BVRE?usp=share_link)
 - [Postman Collections](https://www.postman.com/lunar-spaceship-574322/workspace/petstore/collection/21798755-a92022db-633d-4386-9269-a80e500be17a?action=share&creator=21798755)
 ### Follow Me
